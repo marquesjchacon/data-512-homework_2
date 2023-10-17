@@ -21,4 +21,4 @@ According to MediaWiki REST API, articles from the English Wikipedia may be used
 
 ## Special Considerations
 My Jupyter notebook version is 6.5.2, and it utilizes Python version 3.9.16. Make sure to check the version that you are running under to make sure that the functions are compatible.
-Finally, when calculating the ORES scores, be wary of the time it takes to generate them. Since we are utilizing over 22000 API calls to generate each JSON file, it could take up to 5 hours to run each to their entirety.
+Finally, when calculating the ORES scores, be wary of the time it takes to generate them. Since we are utilizing over 22000 API calls to generate our data, it could take up to 5 hours to run each to their entirety.
